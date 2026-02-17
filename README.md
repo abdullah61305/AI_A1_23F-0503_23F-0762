@@ -1,6 +1,5 @@
 AI Pathfinder: Uninformed Search Visualization
 📌 Project Overview
-
 AI Pathfinder is a Python-based graphical application that visualizes Uninformed Search Algorithms in a grid-based environment. The agent navigates from a Start Point (S) to a Target Point (T) while avoiding obstacles (walls).
 
 The application provides real-time animation and clearly distinguishes between Frontier Nodes (currently in the queue/stack) and Explored Nodes (visited nodes), offering a strong educational demonstration of algorithm behavior and efficiency.
